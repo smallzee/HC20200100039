@@ -2,7 +2,7 @@
     session_start();
     require_once 'func.php';
     define('DB_HOST', 'localhost');
-    define('DB_TABLE', 'fpe_web_assignment');
+    define('DB_TABLE', 'assignment');
     define('DB_USER', 'root');
     define('DB_PASSWORD', '');
 
